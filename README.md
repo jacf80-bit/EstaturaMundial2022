@@ -1,7 +1,7 @@
 # Análisis de la Estatura Mundial 2022
 <img width="1266" height="450" alt="histaltmen" src="https://github.com/user-attachments/assets/27840133-c294-4e7a-86eb-d7e190b90a4d" />
 <h3>Observaciones</h3>
-• La mayor frecuencia de estatura a nivel mundial de los hombres es de 1.76 cms seguida de 1.72 cms
+• La mayor frecuencia de estatura a nivel mundial de los hombres es de 1.76 cms seguida de 1.72 cms
 <img width="1266" height="450" alt="histaltfem" src="https://github.com/user-attachments/assets/52f12792-653f-4d99-aa77-825ec30560dc" />
 <h3>Observaciones</h3>
 • La mayor frecuencia de estatura a nivel mundial de las mujeres es de 1.59 cms seguida de 1.61 cms
