@@ -1,4 +1,5 @@
 # Análisis de la Estatura Mundial 2022
+Este proyecto toma la base de datos Height_of_Male_and_Female_by_Country_2022.csv para hacer el análisis de la frecuencia de altura en el mundo y en México.
 <img width="1266" height="450" alt="histaltmen" src="https://github.com/user-attachments/assets/27840133-c294-4e7a-86eb-d7e190b90a4d" />
 <h3>Observaciones</h3>
 • La mayor frecuencia de estatura a nivel mundial de los hombres es de 1.76 cms seguida de 1.72 cms
